@@ -45,6 +45,7 @@ function App() {
     <title judul="Agus"/>
 
     <div className='card'>
+        <Timer />
     </div>
   </div>
   )
